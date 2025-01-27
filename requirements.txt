@@ -1,0 +1,14 @@
+# Selenium for browser automation
+selenium==4.6.0
+
+# OpenPyXL for reading/writing Excel files
+openpyxl==3.1.2
+
+# PyInstaller for creating an executable from Python code
+pyinstaller==5.13.0
+
+# Optional: Pillow (used by OpenPyXL for images in Excel files, if needed)
+Pillow==9.3.0
+
+# Optional: Browser driver manager for easy browser driver handling
+webdriver-manager==4.2.0
